@@ -1,4 +1,4 @@
-# Excel - Data Analytics Project
+# Excel - Vrinda Store Data Analysis 
 <br>
 Data Analytics project using Excel 
 <br>
